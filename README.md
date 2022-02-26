@@ -1,5 +1,3 @@
-![Web Developer](https://scontent.fcgp4-1.fna.fbcdn.net/v/t1.6435-9/49065388_545813029229582_5023293925771706368_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHoliqS7nhO8HXyaY8hjRQkK1W45LD9G_ErVbjksP0b8V5wlDuZj5-0TSRrzRGQbx_jYaN-AQlbngvRDNnYVe1G&_nc_ohc=AWOUWdoonUMAX93tttL&_nc_ht=scontent.fcgp4-1.fna&oh=00_AT_iYEobAjKxKMMb-U_-RjZbcWHldaI76pCeCRb-dgurVw&oe=6241E38C)
-
 ### Hi there 👋, I'm Sharif Hossen
 #### Web Developer
 
